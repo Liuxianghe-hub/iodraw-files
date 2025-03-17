@@ -118,9 +118,6 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-147" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;五折检验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="858.5" y="720" width="108.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-165" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;稳定性评价&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="870" width="30" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-166" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bias&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="842.5" width="108.5" height="30" as="geometry" />
         </mxCell>
@@ -166,6 +163,9 @@
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-195" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据分类和模型模拟&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="240" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-196" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;按类型分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="356" width="30" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
