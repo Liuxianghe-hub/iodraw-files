@@ -43,6 +43,12 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-33" target="geJ6zhucXb2YpxVPuPn0-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-33" target="geJ6zhucXb2YpxVPuPn0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-33" target="geJ6zhucXb2YpxVPuPn0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-33" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Fluxnet2015通量站点数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="300" width="240" height="40" as="geometry" />
         </mxCell>
