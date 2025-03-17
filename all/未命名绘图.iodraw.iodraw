@@ -71,10 +71,15 @@
           <mxGeometry x="87" y="400" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;表层土壤水&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="409.5" y="398.5" width="30" height="150" as="geometry" />
+          <mxGeometry x="408.5" y="399.5" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-41" target="geJ6zhucXb2YpxVPuPn0-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="102" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;modis产品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="320" width="110" height="40" as="geometry" />
