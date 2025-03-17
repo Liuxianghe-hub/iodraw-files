@@ -85,8 +85,8 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;表层土壤水&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="640" width="30" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-59" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.8999979654947917;arrowSize=0.216666259765625;" vertex="1" parent="1">
-          <mxGeometry x="600" y="420" width="100" height="60" as="geometry" />
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-59" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=1;arrowSize=0.2259250217013889;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
