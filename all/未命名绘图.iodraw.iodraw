@@ -127,8 +127,8 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1020" y="700" width="153" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="997" y="830" width="143" height="50" as="geometry" />
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水量除以降水日间隔P_SL&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="769" width="150" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
