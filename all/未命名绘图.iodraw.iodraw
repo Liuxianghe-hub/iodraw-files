@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-137" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="310" width="619.5" height="250" as="geometry" />
+          <mxGeometry x="20" y="310" width="1080" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
