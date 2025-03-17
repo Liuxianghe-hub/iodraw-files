@@ -107,28 +107,28 @@
           <mxGeometry x="503" y="890" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;小时尺度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="440" width="110" height="30" as="geometry" />
+          <mxGeometry x="770" y="421" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;日尺度&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="440" width="116.5" height="30" as="geometry" />
+          <mxGeometry x="1012" y="421" width="116.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;累积一日以内降水量P_SUM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="480" width="190" height="55" as="geometry" />
+          <mxGeometry x="730" y="461" width="190" height="55" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;两次降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="550" width="190" height="50" as="geometry" />
+          <mxGeometry x="730" y="531" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水强度P_SL即一日累积降水除以小时间隔&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="619" width="190" height="70" as="geometry" />
+          <mxGeometry x="730" y="600" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="970" y="550" width="190" height="50" as="geometry" />
+          <mxGeometry x="980" y="531" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水强度&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;P_SL&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;降水量除以降水日间隔&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="619" width="190" height="69" as="geometry" />
+          <mxGeometry x="980" y="600" width="190" height="69" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;前1，2，3，4，7日降水P_days&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="480" width="190" height="55" as="geometry" />
+          <mxGeometry x="980" y="461" width="190" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
