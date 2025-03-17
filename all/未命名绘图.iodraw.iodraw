@@ -11,7 +11,7 @@
           <mxGeometry x="1118.5" y="420" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="370" width="30" height="150" as="geometry" />
+          <mxGeometry x="827" y="370" width="113" height="40" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;饱和水气压差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302" y="400" width="30" height="150" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="402" y="400" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;气压&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="400" width="30" height="150" as="geometry" />
+          <mxGeometry x="490" y="400" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;净辐射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="30" height="150" as="geometry" />
