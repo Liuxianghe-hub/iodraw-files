@@ -73,6 +73,12 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;modis产品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="300" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-44" target="geJ6zhucXb2YpxVPuPn0-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-44" target="geJ6zhucXb2YpxVPuPn0-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ERA5-LAND&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="840" width="140" height="40" as="geometry" />
         </mxCell>
