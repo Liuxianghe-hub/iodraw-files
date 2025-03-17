@@ -204,7 +204,7 @@
           <mxGeometry x="725.5" y="530.25" width="534.5" height="239.75" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-213" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="726" y="776.38" width="534.5" height="239.75" as="geometry" />
+          <mxGeometry x="697" y="1010" width="544" height="253.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
