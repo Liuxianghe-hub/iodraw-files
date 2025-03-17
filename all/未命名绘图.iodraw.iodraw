@@ -121,6 +121,9 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-137" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="1080" height="390" as="geometry" />
         </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-143" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;潜热通量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="860" width="30" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
