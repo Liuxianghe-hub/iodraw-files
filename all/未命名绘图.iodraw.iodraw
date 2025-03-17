@@ -153,10 +153,10 @@
           <mxGeometry x="750" y="742.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-182" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;植被类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="530" width="30" height="170" as="geometry" />
+          <mxGeometry x="835" y="500" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-184" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;气候带分区&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="530" width="30" height="170" as="geometry" />
+          <mxGeometry x="890" y="500" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-185" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;高、中、低VPD按比例划分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="500" width="175" height="52.5" as="geometry" />
