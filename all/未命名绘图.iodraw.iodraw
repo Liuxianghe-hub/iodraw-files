@@ -161,8 +161,11 @@
         <mxCell id="geJ6zhucXb2YpxVPuPn0-187" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;土壤含水量按大小分为前50%和后50%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1066" y="620" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-189" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;高、中、低VPD按比例划分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="500" width="175" height="52.5" as="geometry" />
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-189" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;气候带分区&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="500" width="130" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="geJ6zhucXb2YpxVPuPn0-190" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;气候带分区&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="510" width="130" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
