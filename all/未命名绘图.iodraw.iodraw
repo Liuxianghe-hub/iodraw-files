@@ -32,7 +32,7 @@
           <mxGeometry x="84.5" y="730" width="210" height="236.5" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;按类型分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="380" width="30" height="150" as="geometry" />
+          <mxGeometry x="720" y="380" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;叶面积指数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110.75" y="462.5" width="30" height="150" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="311.5" y="736.5" width="190" height="55" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-96" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据分类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="310" width="150" height="30" as="geometry" />
+          <mxGeometry x="850" y="310" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-113" target="geJ6zhucXb2YpxVPuPn0-16">
           <mxGeometry relative="1" as="geometry" />
@@ -153,22 +153,22 @@
           <mxGeometry x="750" y="742.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-185" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;高、中、低VPD按比例划分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="360" width="175" height="52.5" as="geometry" />
+          <mxGeometry x="975" y="360" width="175" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-186" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;高、中、低净辐射按比例划分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="420" width="175" height="50" as="geometry" />
+          <mxGeometry x="975" y="420" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-187" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;土壤含水量按大小分为前50%和后50%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="480" width="175" height="50" as="geometry" />
+          <mxGeometry x="976" y="480" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-189" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;气候带分区&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="848.5" y="380" width="130" height="52.5" as="geometry" />
+          <mxGeometry x="768.5" y="380" width="130" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-190" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;植被类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="848.5" y="460" width="130" height="52.5" as="geometry" />
+          <mxGeometry x="768.5" y="460" width="130" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-191" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;按数值分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="380" width="30" height="150" as="geometry" />
+          <mxGeometry x="1170" y="380" width="30" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
