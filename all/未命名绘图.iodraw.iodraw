@@ -65,14 +65,8 @@
             <mxPoint x="371.5" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="geJ6zhucXb2YpxVPuPn0-44" target="geJ6zhucXb2YpxVPuPn0-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ERA5-LAND&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="301.5" y="790" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;表层土壤水&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408.5" y="600" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-74" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;hants滤波&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;线性插值到日尺度&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25.5" y="600" width="153" height="70" as="geometry" />
@@ -103,12 +97,6 @@
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;随机森林建模&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="200" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-102" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="326" y="550" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-104" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361.75" y="550" width="123.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-105" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="40.25" y="550" width="123.5" height="50" as="geometry" />
