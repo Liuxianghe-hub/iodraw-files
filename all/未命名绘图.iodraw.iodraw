@@ -122,7 +122,7 @@
           <mxGeometry x="720" y="619" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-83" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;前1、2、3、4、7日总降水P_days&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="970" y="480" width="190" height="50" as="geometry" />
+          <mxGeometry x="928.5" y="490" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="970" y="550" width="190" height="50" as="geometry" />
