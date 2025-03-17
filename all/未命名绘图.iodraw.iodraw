@@ -55,17 +55,7 @@
             <mxPoint x="389.5" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="geJ6zhucXb2YpxVPuPn0-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="389.5" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="geJ6zhucXb2YpxVPuPn0-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="389.5" y="340" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="geJ6zhucXb2YpxVPuPn0-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="389.5" y="340" as="sourcePoint" />
           </mxGeometry>
