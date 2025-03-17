@@ -8,7 +8,7 @@
           <mxGeometry x="250" y="80" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="390" y="210" width="90" height="270" as="geometry" />
+          <mxGeometry x="440" y="-35" width="90" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
