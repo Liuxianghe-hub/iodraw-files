@@ -213,7 +213,7 @@
           <mxGeometry x="496.5" y="160" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-217" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="24.5" y="130.13" width="574" height="750" as="geometry" />
+          <mxGeometry x="17.25" y="140" width="1255.5" height="939.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
