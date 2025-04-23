@@ -176,7 +176,7 @@
           <mxGeometry x="748.56" y="961" width="461.44" height="39" as="geometry" />
         </mxCell>
         <mxCell id="yrm46bCv-ctRF6bOS_Th-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="704" y="790.25" width="536" height="219.75" as="geometry" />
+          <mxGeometry x="705.25" y="790.25" width="536" height="219.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
