@@ -164,16 +164,16 @@
           <mxGeometry x="63.860000000000014" y="740" width="537.25" height="260" as="geometry" />
         </mxCell>
         <mxCell id="yrm46bCv-ctRF6bOS_Th-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;解决实际问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="814.75" width="276.88" height="39" as="geometry" />
+          <mxGeometry x="834.18" y="807" width="276.88" height="39" as="geometry" />
         </mxCell>
         <mxCell id="yrm46bCv-ctRF6bOS_Th-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1.降水脉冲产生的蒸散发差异能否忽略？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="748.56" y="859.5" width="332.76" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="yrm46bCv-ctRF6bOS_Th-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;什么样的气候条件和植被类型差异更明显？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="748.56" y="910.75" width="360.38" height="39" as="geometry" />
+        <mxCell id="yrm46bCv-ctRF6bOS_Th-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2.什么样的气候条件和植被类型差异更明显？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748.56" y="910.75" width="371.44" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="yrm46bCv-ctRF6bOS_Th-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;什么样的前期土壤水分和脉冲时气候条件差异更明显？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="748.56" y="961" width="450.38" height="39" as="geometry" />
+        <mxCell id="yrm46bCv-ctRF6bOS_Th-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3.什么样的前期土壤水分和脉冲时气候条件差异更明显？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748.56" y="961" width="461.44" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
