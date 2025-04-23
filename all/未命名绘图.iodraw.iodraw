@@ -11,7 +11,7 @@
           <mxGeometry x="695.87" y="791.5" width="537.25" height="260" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-215" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="676.87" y="310" width="574" height="750" as="geometry" />
+          <mxGeometry x="1610" y="291" width="574" height="750" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-217" value="`" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1580" y="180.19" width="1255.5" height="939.87" as="geometry" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;两次降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="805.5" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="geJ6zhucXb2YpxVPuPn0-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;降水强度P_SL即一日累积降水除以小时间隔&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="94.5" y="862.5" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="geJ6zhucXb2YpxVPuPn0-84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;两次降水事件间隔P_lag_fill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="314.5" y="805.5" width="190" height="50" as="geometry" />
