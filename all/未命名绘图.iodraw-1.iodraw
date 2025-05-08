@@ -161,10 +161,10 @@
           <mxGeometry x="1005.3299999999999" y="462.5" width="133.93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNd9bdwA5-RrauHQLbx7-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;以黄河流域为例解决实际问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="560" width="320" height="50" as="geometry" />
+          <mxGeometry x="780" y="560" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oNd9bdwA5-RrauHQLbx7-87" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.477777099609375;arrowSize=0.4611104329427083;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="909.25" y="626" width="41.5" height="34" as="geometry" />
+          <mxGeometry x="928.25" y="626" width="41.5" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
