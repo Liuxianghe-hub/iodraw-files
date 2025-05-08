@@ -77,7 +77,7 @@
           <mxGeometry x="226.5" y="326" width="343.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="oNd9bdwA5-RrauHQLbx7-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="716.25" width="210" height="236" as="geometry" />
+          <mxGeometry x="730" y="321" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oNd9bdwA5-RrauHQLbx7-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;植被指数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755.3299999999999" y="340" width="133.93" height="40" as="geometry" />
