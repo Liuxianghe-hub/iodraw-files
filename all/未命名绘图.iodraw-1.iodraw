@@ -14,7 +14,7 @@
           <mxGeometry x="695.75" y="550" width="524.25" height="360" as="geometry" />
         </mxCell>
         <mxCell id="oNd9bdwA5-RrauHQLbx7-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="695.75" y="241" width="537.25" height="260" as="geometry" />
+          <mxGeometry x="695.75" y="241" width="524.25" height="299" as="geometry" />
         </mxCell>
         <mxCell id="oNd9bdwA5-RrauHQLbx7-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0,0],[0.75,0],[1,0],[1,1],[0.75,1],[0.25,1],[0,1],[0,0]];polyline=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="574" height="750" as="geometry" />
